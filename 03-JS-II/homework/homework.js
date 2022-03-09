@@ -177,6 +177,7 @@ function tablaDelSeis(){
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí   
   let array = [];
+ 
   for (let i = 0; i <=60; i++) {
     if (i%6 == 0) {
       array.push(i);
@@ -199,7 +200,7 @@ function doWhile(numero) {
   //Retornar el valor final.
   //Usar el bucle do ... while.
   let i = 1;
-  valor = numero;
+  let valor = numero;
   do {
    valor = valor + 5;
     i++;

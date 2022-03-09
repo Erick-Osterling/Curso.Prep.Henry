@@ -1,0 +1,15 @@
+variables: Son como "cajas" en donde se almacena algún valor. Por ejemplo un número o texto. Luego, con el nombre de la 
+variable, puedes utilizar lo que hay "dentro" o almacenado en la variable. Es decir, la variable hace referencia al valor 
+que tiene almacenado en su interior. 
+
+Strings: Los strings son cadenas de letras, es decir, texto. 
+
+Funciones: Las funciones son instrucciones para hacer algo. Algunas funciones tienen argumentos, en cuyo caso, las instrucciones
+son para hacer algo con ese argumento. Los argumentos de las funciones son datos que luego, cuando esa función sea "llamada" o 
+utilizada, se le tienen que suministrar a la funcion, para que de ese modo la función tenga con qué trabajar. 
+
+Declaraciones if: Son cosas que hacen algo, a diferencia de las expresiones que son valores o algo que finalmente de como resultado 
+un valor. La declaración If es una condicional que permite elegir una fracción de código a recorrer y otra, dependiendo de si se
+cumple o no, una condición. Si si se cumple, entonces se va por un "camino" y si no, por otro. 
+
+Valores boolerandos: Puede ser "true" o "false". Sirven para elegir caminos (por ejemplo en un IF) luego de pruebas lógicas. 
